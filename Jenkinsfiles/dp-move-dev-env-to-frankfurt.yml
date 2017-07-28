@@ -1,3 +1,4 @@
 pipeline:
   enabled: true
   script: demo
+  sometestval: false
